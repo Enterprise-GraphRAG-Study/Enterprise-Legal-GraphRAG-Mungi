@@ -26,7 +26,7 @@ To ensure high-fidelity legal reasoning and information retrieval, this project 
 
 ### Execution Proof
 
-![Benchmark Result](./src/Benchmark_result.png)
+![Benchmark Result](./assets/Benchmark_result.png)
 
 > **Technical Note**: The latency has been significantly reduced to **0.31ms** through modular architecture optimization and MPS kernel warm-up on Apple Silicon's unified memory.
 
